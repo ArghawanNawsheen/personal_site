@@ -1,0 +1,161 @@
+.top-container
+{
+    
+   background-color: #E4F9F5;
+   text-align: center;  
+   color: #62dacc;
+   
+}
+
+.Arial{
+	/*font-family: Brush Script MT, Brush Script Std, cursive;*/
+	font-size: 55px;
+	
+	
+}
+
+.middle-container{
+	text-align: center;
+	
+}
+h1{
+	color: #62dacc;
+	margin-top: 50px;
+	margin: 0 auto 0 auto;
+	font-family: 'Sacramento',cursive;
+}
+
+h3{
+	color: #62dacc;
+	font-family: 'Montserrat',sans-serif;
+	padding:0%;
+}
+#myid{
+	padding-bottom: 0%;
+	margin-left: 10px;
+}
+h2{
+	color: #62dacc;
+	font-family: 'Montserrat',sans-serif;
+}
+.Aru-img{
+	/*height: 200px;*/
+	width: 200px;
+}
+.program-img{
+	/*position: absolute;*/
+
+	
+	/*height: 100px;*/
+	/*width: 100px;*/
+	width: 14%;
+	float: left;
+	margin-left: 10%;
+	margin-top: 3%;
+	/*float: left;
+padding-bottom: 40%;*/
+}
+
+.contact-me{
+	float: left;
+padding-right: 10%;
+	color: white;
+
+}
+
+
+.btn
+{
+	border-radius: 15px 50px 30px 5px;
+background-color: #E0FFFF;
+
+ 
+
+}
+
+.skill-row
+{
+/*margin-right: 50%;*/
+width: 50%;
+margin:100px auto  100px auto;
+text-align: left;
+line-height: 2;
+margin-left: 30px;
+margin-right: 30px;
+}
+.nature{
+	height: 100px;
+	width: 100px;*
+		
+		margin-bottom:30%;
+		width: 14%;
+	float: left;
+	margin-left: 10%;
+	margin-top: 3%;
+	
+
+}
+.bottom-container
+{
+	margin-top: 13%;
+
+	padding-top: 5%;
+	padding-bottom: 5%;
+text-align: center;
+	background-color: #62dacc;
+	/*position: absolute;*/
+
+
+}
+.mountain{
+	/*padding-right: 12%;
+	padding-left: 12%;*/
+	float: center;
+	margin-right: 16%;
+}
+.top-cloud{
+	
+	padding-left: 30%;
+}
+.bottom-cloud
+{
+	
+	padding-right: 10%;
+	padding-bottom: 20%;
+}
+.web
+{
+	font-size: 40px;
+	color: #62dacc ;
+}
+/*.hoby{
+	margin-left:40% ;
+}*/
+.div-conme{
+	margin-right: 1%;
+}
+
+.footer-link{
+	margin-left: 4%;
+/*	margin-right: 2%;*/
+	font-size: 22px;
+}
+
+.copyright{
+	margin-left: 6%;
+	color: white;
+}
+
+body{
+	font-family:  'Merriweather' ,sans-serif;
+}
+
+.para{
+	float: top;
+}
+
+.footer-link
+{
+	padding-bottom: 3%;
+	padding-top: 3%;
+}
